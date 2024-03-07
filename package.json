@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "qpacjs",
   "main": "./dist/index.js",
+  "type":"module",
   "bin": {
     "qpacjs": "./dist/index.js"
   },
